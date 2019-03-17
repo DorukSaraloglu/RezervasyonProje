@@ -1,0 +1,14 @@
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe.config
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.pdb
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csprojResolveAssemblyReference.cache
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csproj.CoreCompileInputs.cache
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.exe
+c:\users\casper\source\repos\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.pdb
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe.config
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.pdb
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.exe
+C:\Users\itopya\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.pdb
